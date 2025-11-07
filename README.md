@@ -14,7 +14,7 @@ Works with a standard webcam
 
 🧰 Technologies Used
 
-Python 3.x
+Python 3.9
 
 OpenCV – for image/video capture and visualization
 
